@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>历史台风路径查询系统 (2001-2022)</title>
+    
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        /* 确保地图容器占满屏幕 */
+        #map_container {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1; /* 地图在底层 */
+        }
+        /* 侧边栏浮动在地图上面 */
+        #sidebar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 320px;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            z-index: 999; /* 侧边栏在顶层 */
+            box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+            display: flex;
+            flex-direction: column;
+        }
+    </style>
+    
+    <script type="text/javascript" src="https://api.map.baidu.com/api?type=webgl&v=1.0&ak=ZQtS9wnnEAZwPpdsbhBm4T8qEZlwZrkG&s=1"></script>
+</head>
+<body>
+
+    <div id="sidebar">
+        <div class="sidebar-header" style="padding: 20px; border-bottom: 1px solid #ddd;">
+            <h2 style="margin: 0 0 10px 0; text-align: center;">台风查询系统</h2>
+            <div class="year-control" style="text-align: center;">
+                <label for="year_select">选择年份：</label>
+                <select id="year_select" style="padding: 5px;">
+                    </select>
+            </div>
+        </div>
+
+        <div id="typhoon_list" style="flex: 1; overflow-y: auto;">
+            <div style="padding: 20px; text-align: center; color: #999;">请选择年份...</div>
+        </div>
+    </div>
+
+    <div id="map_container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
