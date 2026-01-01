@@ -1,0 +1,187 @@
+{
+  "header": {
+    "tfbh": "200224",
+    "name": "-",
+    "ename": "HUKO",
+    "start_time": "2002-11-03T20:00:00",
+    "is_current": "0.0"
+  },
+  "points": [
+    {
+      "time": "2002-11-03T20:00:00",
+      "lng": 179.915899,
+      "lat": 15.50419,
+      "pressure": 975,
+      "speed": 33,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-04T02:00:00",
+      "lng": 177.815542,
+      "lat": 16.004207,
+      "pressure": 970,
+      "speed": 35,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-04T08:00:00",
+      "lng": 174.913758,
+      "lat": 16.603593,
+      "pressure": 970,
+      "speed": 35,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-04T14:00:00",
+      "lng": 172.31335,
+      "lat": 17.305064,
+      "pressure": 970,
+      "speed": 35,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-04T20:00:00",
+      "lng": 170.412643,
+      "lat": 18.405156,
+      "pressure": 970,
+      "speed": 35,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-05T02:00:00",
+      "lng": 168.012382,
+      "lat": 19.504942,
+      "pressure": 975,
+      "speed": 33,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-05T08:00:00",
+      "lng": 165.412777,
+      "lat": 20.403676,
+      "pressure": 975,
+      "speed": 33,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-05T14:00:00",
+      "lng": 163.812063,
+      "lat": 21.704137,
+      "pressure": 975,
+      "speed": 33,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-05T20:00:00",
+      "lng": 163.012327,
+      "lat": 23.303403,
+      "pressure": 980,
+      "speed": 30,
+      "strong": "强热带风暴(STS)",
+      "power": 11,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-06T02:00:00",
+      "lng": 162.712199,
+      "lat": 24.30391,
+      "pressure": 980,
+      "speed": 30,
+      "strong": "强热带风暴(STS)",
+      "power": 11,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-06T08:00:00",
+      "lng": 163.112714,
+      "lat": 25.303913,
+      "pressure": 985,
+      "speed": 28,
+      "strong": "强热带风暴(STS)",
+      "power": 10,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-06T14:00:00",
+      "lng": 164.212723,
+      "lat": 25.903098,
+      "pressure": 985,
+      "speed": 25,
+      "strong": "强热带风暴(STS)",
+      "power": 10,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-06T20:00:00",
+      "lng": 166.213347,
+      "lat": 26.803661,
+      "pressure": 990,
+      "speed": 23,
+      "strong": "热带风暴(TS)",
+      "power": 9,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-07T02:00:00",
+      "lng": 169.013449,
+      "lat": 27.302933,
+      "pressure": 990,
+      "speed": 23,
+      "strong": "热带风暴(TS)",
+      "power": 9,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-07T08:00:00",
+      "lng": 172.314829,
+      "lat": 28.003845,
+      "pressure": 995,
+      "speed": 18,
+      "strong": "热带风暴(TS)",
+      "power": 8,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-11-07T14:00:00",
+      "lng": 175.015756,
+      "lat": 28.40298,
+      "pressure": 1000,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    }
+  ]
+}

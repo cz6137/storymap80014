@@ -1,0 +1,264 @@
+{
+  "header": {
+    "tfbh": "200204",
+    "name": "浣熊",
+    "ename": "NOGURI",
+    "start_time": "2002-06-05T08:00:00",
+    "is_current": "0.0"
+  },
+  "points": [
+    {
+      "time": "2002-06-05T08:00:00",
+      "lng": 112.811411,
+      "lat": 19.704408,
+      "pressure": 1004,
+      "speed": 12,
+      "strong": "热带低压(TD)",
+      "power": 6,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-05T14:00:00",
+      "lng": 113.311647,
+      "lat": 19.804182,
+      "pressure": 1002,
+      "speed": 12,
+      "strong": "热带低压(TD)",
+      "power": 6,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-05T20:00:00",
+      "lng": 113.811447,
+      "lat": 19.903691,
+      "pressure": 1002,
+      "speed": 12,
+      "strong": "热带低压(TD)",
+      "power": 6,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-06T02:00:00",
+      "lng": 114.511013,
+      "lat": 19.904075,
+      "pressure": 1002,
+      "speed": 12,
+      "strong": "热带低压(TD)",
+      "power": 6,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-06T08:00:00",
+      "lng": 114.910867,
+      "lat": 19.903459,
+      "pressure": 1000,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-06T14:00:00",
+      "lng": 115.511122,
+      "lat": 20.003565,
+      "pressure": 1000,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-06T20:00:00",
+      "lng": 116.310834,
+      "lat": 20.004051,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-07T02:00:00",
+      "lng": 117.010907,
+      "lat": 20.00425,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-07T08:00:00",
+      "lng": 118.011075,
+      "lat": 20.103591,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-07T14:00:00",
+      "lng": 118.810757,
+      "lat": 20.303996,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-07T20:00:00",
+      "lng": 119.910349,
+      "lat": 20.403562,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-08T02:00:00",
+      "lng": 121.110316,
+      "lat": 20.603855,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-08T08:00:00",
+      "lng": 122.110295,
+      "lat": 20.803357,
+      "pressure": 998,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-08T14:00:00",
+      "lng": 123.110437,
+      "lat": 21.103969,
+      "pressure": 995,
+      "speed": 20,
+      "strong": "热带风暴(TS)",
+      "power": 8,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-08T20:00:00",
+      "lng": 123.910377,
+      "lat": 21.402994,
+      "pressure": 995,
+      "speed": 20,
+      "strong": "热带风暴(TS)",
+      "power": 8,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-09T02:00:00",
+      "lng": 124.410645,
+      "lat": 21.903456,
+      "pressure": 990,
+      "speed": 23,
+      "strong": "热带风暴(TS)",
+      "power": 9,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-09T08:00:00",
+      "lng": 124.710451,
+      "lat": 22.703311,
+      "pressure": 980,
+      "speed": 30,
+      "strong": "强热带风暴(STS)",
+      "power": 11,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-09T14:00:00",
+      "lng": 124.810472,
+      "lat": 23.303793,
+      "pressure": 955,
+      "speed": 45,
+      "strong": "强台风(STY)",
+      "power": 14,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-09T20:00:00",
+      "lng": 125.010707,
+      "lat": 24.003275,
+      "pressure": 975,
+      "speed": 33,
+      "strong": "台风(TY)",
+      "power": 12,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-10T02:00:00",
+      "lng": 125.510795,
+      "lat": 25.203537,
+      "pressure": 980,
+      "speed": 30,
+      "strong": "强热带风暴(STS)",
+      "power": 11,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-10T08:00:00",
+      "lng": 126.010599,
+      "lat": 25.803478,
+      "pressure": 985,
+      "speed": 25,
+      "strong": "强热带风暴(STS)",
+      "power": 10,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-10T14:00:00",
+      "lng": 127.010721,
+      "lat": 26.90249,
+      "pressure": 990,
+      "speed": 18,
+      "strong": "热带风暴(TS)",
+      "power": 8,
+      "move_dir": null,
+      "move_speed": null
+    },
+    {
+      "time": "2002-06-10T20:00:00",
+      "lng": 128.411035,
+      "lat": 28.403412,
+      "pressure": 995,
+      "speed": 15,
+      "strong": "热带低压(TD)",
+      "power": 7,
+      "move_dir": null,
+      "move_speed": null
+    }
+  ]
+}
