@@ -1,6 +1,4 @@
-/* =========================================
-   1. 全局重置与基础样式
-   ========================================= */
+/* 1. 全局重置与基础样式*/
 body, html {
     margin: 0;
     padding: 0;
@@ -12,10 +10,7 @@ body, html {
     -webkit-font-smoothing: antialiased;
 }
 
-/* =========================================
-   2. 布局容器 (侧边栏 & 地图)
-   ========================================= */
-
+/* 2. 布局容器 (侧边栏 & 地图)*/
 /* 左侧侧边栏 */
 #sidebar {
     position: absolute;
@@ -41,10 +36,7 @@ body, html {
     z-index: 1;
 }
 
-/* =========================================
-   3. 侧边栏内部组件
-   ========================================= */
-
+/* 3. 侧边栏内部组件*/
 .sidebar-header {
     padding: 25px 20px;
     background-color: #fff;
@@ -93,9 +85,7 @@ body, html {
     border-color: #409EFF;
 }
 
-/* =========================================
-   4. 台风列表样式
-   ========================================= */
+/* 4. 台风列表样式 */
 
 #typhoon_list {
     flex: 1;
@@ -103,7 +93,7 @@ body, html {
     background-color: #fff;
 }
 
-/* 滚动条美化 */
+/* 滚动条 */
 #typhoon_list::-webkit-scrollbar {
     width: 6px;
 }
@@ -154,15 +144,12 @@ body, html {
     margin-left: 5px;
 }
 
-/* --- 关键修改：列表信息部分 --- */
 .typhoon-info {
     font-size: 13px;
     color: #999;
     margin-top: 4px;
 }
 
-/* 强制隐藏列表里的第二个 span (即“已停编/活跃中”状态) */
-/* 这样即使 JS 里生成了这段文字，网页上也不会显示 */
 .typhoon-info span:nth-child(2),
 .typhoon-info span:last-child:not(:first-child) {
     display: none !important;
@@ -185,9 +172,7 @@ body, html {
     color: #1890ff;
 }
 
-/* =========================================
-   5. 弹窗样式
-   ========================================= */
+/* 5. 弹窗样式 */
 .info-window-content {
     font-size: 13px;
     line-height: 1.8;
@@ -209,4 +194,5 @@ body, html {
     color: #666;
     width: 50px;
     display: inline-block;
+
 }
